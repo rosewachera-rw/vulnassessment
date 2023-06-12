@@ -1,0 +1,3 @@
+[submodule "JavaVulnerableLab"]
+	path = JavaVulnerableLab
+	url = https://github.com/rosewachera-rw/vulnassessment.git
